@@ -2,7 +2,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity >0.8.4 < 0.8.19;
 
-import "../../lib/eai/EAI.sol";
+import "./lib/EAI.sol";
 
 contract Orcid {
  

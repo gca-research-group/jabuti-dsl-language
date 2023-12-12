@@ -44,7 +44,7 @@ class JabutiGenerator extends AbstractGenerator {
 			//SPDX-License-Identifier: MIT
 			pragma solidity ^0.8.14;
 			
-			import "./libs/EAI_Domain.sol";
+			import "./lib/EAI.sol";
 			
 			contract «c.name» is EAI_Domain{
 				
